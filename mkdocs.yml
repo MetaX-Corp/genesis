@@ -5,7 +5,7 @@ repo_url: https://github.com/example/private-ai-secure-network
 site_dir: site
 docs_dir: docs
 nav:
-  - Home: README.md
+  - Home: index.md
   - Project Tracking: project-tracking.md
   - Scope & Acceptance:
       - Scope: scope.md
