@@ -1,3 +1,4 @@
+---
 site_name: Private AI Secure Network
 site_description: Documentation for secure, AI-assisted network operations
 site_url: https://example.github.io/private-ai-secure-network
@@ -36,3 +37,4 @@ markdown_extensions:
 extra_javascript:
   - https://unpkg.com/mermaid@10/dist/mermaid.min.js
   - assets/mermaid-init.js
+---
